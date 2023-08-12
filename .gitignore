@@ -1,5 +1,6 @@
 **/data/
 **/.vscode/
 **/bak/
-**/ppt/
+# **/ppt/
 **/local/
+.DS\_Store
